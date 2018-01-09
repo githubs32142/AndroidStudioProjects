@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kal</string>
+    <string name="wy">Wynik</string>
+    <string name="add">+</string>
+    <string name="pi">Oblicz liczbę Pi</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="liczba1">Liczba 1:</string>
+    <string name="liczba2">Liczba 2:</string>
+</resources>

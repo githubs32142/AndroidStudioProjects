@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLLite</string>
+    <string name="add">Add Data</string>
+    <string name="view">View Data</string>
+    <string name="singin">Sing In</string>
+    <string name="singOut">Sing out</string>
+    <string name="addNumber">Enter a number</string>
+    <string name="pass">Enter a passrowd</string>
+    <string name="sucess">Sing In sucess</string>
+    <string name="fail">Sing in fail</string>
+    <string name="exist">Account doesn\'t exist</string>
+    <string name="entName">Enter a name</string>
+    <string name="singup">Sing up</string>
+</resources>

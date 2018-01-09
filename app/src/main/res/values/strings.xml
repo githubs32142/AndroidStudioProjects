@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simsim</string>
+    <string name="simsims_api">81db8ce8-bc98-4239-9102-01a5b4007c90</string>
+    <string name="enter_name">Wprowadź wiadomość</string>
+</resources>
